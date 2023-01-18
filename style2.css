@@ -1,0 +1,55 @@
+body{ 
+    background-image: url(immagini/background.jpg);
+    background-size: cover;   
+ }
+
+
+.logo { 
+    width: 270px;
+    position: absolute;
+top:15%;
+left: 44%;
+transform: translate(-15%, -44%);
+}
+
+.scritta {font-family: 'Fredoka One';
+    font-size: 35px;
+    position: absolute;
+    top: 24%;
+    left: 46%;
+    transform: translate(-24%, -46%);
+}
+
+
+.bottoni{
+    background-color:rgb(8,220,4);
+    padding: 4px;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-33%, -50%);
+  
+}
+
+.layover{
+    width: 60%;
+    height: 80%;
+    background-color: rgba(60, 60, 60, 0.7);
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-43%, -50%);
+    
+    
+}
+
+.testi {
+    font-family: 'Lexend', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 43%;
+    left: 20%;
+    transform: translate(-43%, -20%);
+
+}
+
